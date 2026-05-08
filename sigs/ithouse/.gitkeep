@@ -1,0 +1,2 @@
+Drop custom YARA-X .yar rules in this directory.
+zeroattack-scanner signatures refresh will compile them into index-x.yrc.
