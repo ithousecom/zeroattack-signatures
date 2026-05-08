@@ -1,0 +1,9 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+This software is licensed under the GNU AGPL-3.0-or-later. The full
+license text is available at: https://www.gnu.org/licenses/agpl-3.0.txt
+
+The signatures in this repository are intended to be compiled by the
+zeroattack-scanner engine, which is itself a fork of malwatch
+(github.com/defended-net/malwatch) under AGPL-3.0-or-later.
